@@ -12,3 +12,12 @@ docs/
 
 # Dotenv file
 .env
+
+broadcast/
+lib/
+
+test/coverage
+coverage.txt
+coverage2.txt
+
+node_modules/prettier/
